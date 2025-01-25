@@ -1,4 +1,4 @@
-public class ejemplo {
+public class ejemplo240125 {
     private double precioX = 0;
     private double precioY = 0;
     private String nombre = "";
